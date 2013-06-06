@@ -7,5 +7,6 @@ namespace myGit0606
 {
     class Class2
     {
+        //heh
     }
 }
