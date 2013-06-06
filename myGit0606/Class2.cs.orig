@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace myGit0606
+{
+    class Class2
+    {
+<<<<<<< HEAD
+        //heh
+=======
+        int b = 4;
+>>>>>>> branch2
+    }
+}

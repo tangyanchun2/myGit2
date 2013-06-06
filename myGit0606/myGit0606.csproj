@@ -34,6 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Accessibility">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,10 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="branches\branch2Another.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
-    <Compile Include="branches\Classbranch2.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
