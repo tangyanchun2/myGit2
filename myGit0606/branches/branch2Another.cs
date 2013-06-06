@@ -5,8 +5,9 @@ using System.Text;
 
 namespace myGit0606
 {
-    class Class2
+    class branch2Another
     {
-        int b = 4;
+
+        //another
     }
 }
